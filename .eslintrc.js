@@ -41,3 +41,6 @@ module.exports = {
     }
   }
 }
+
+// plugins:['手机','电脑'] 所有的规范
+// extends:['']
